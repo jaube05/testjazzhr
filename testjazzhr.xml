@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+  <publisher>Jazz</publisher>
+  <publisherurl>http://app.jazz.co</publisherurl>
+  <lastBuildDate>Wed, 1 Mar 2017 11:11:11 GMT</lastBuildDate>
+  <company><![CDATA[Company Name in JazzHR]]></company>
+  <job>
+    <id><![CDATA[job_20170224230626_FPYZRT7IELMUEIX3]]></id>
+    <internalcode><![CDATA[]]></internalcode>
+    <status><![CDATA[Open]]></status>
+    <title><![CDATA[Software Engineer]]></title>
+    <department><![CDATA[Engineering]]></department>
+    <url><![CDATA[http://myjazzhrsubdomain.applytojob.com/apply/yvcLOyyQsD/Software-Engineer]]></url>
+    <city><![CDATA[Seattle]]></city>
+    <state><![CDATA[WA]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[98107]]></postalcode>
+    <description><![CDATA[]]></description>
+    <type><![CDATA[Full Time]]></type>
+    <experience><![CDATA[Experienced]]></experience>
+    <buttons><![CDATA[<script type="text/javascript" src="//app.jazz.co/widgets/buttons/create/myjazzhrsubdomain/yvcLOyyQsD"></script>]]></buttons>
+  </job>
+</jobs>
